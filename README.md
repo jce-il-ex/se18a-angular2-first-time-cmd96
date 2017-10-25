@@ -1,3 +1,5 @@
+https://console.firebase.google.com/project/myproject-ece96/overview
+
 # Angular 2 create and delpoy for first time
  First time creating and deploying angular2 app
 
